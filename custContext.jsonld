@@ -20,7 +20,7 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
 
         "description": "http://schema.org/description",
-	      "distribution" : "https://schema.org/distribution",
+	"distribution" : "https://schema.org/distribution",
         "issn" : "https://schema.org/issn",
         "creatorAccountID" : "https://schema.org/accountId",
         "conditionsOfAccess" : "https://schema.org/conditionsOfAccess",
