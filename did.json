@@ -4,7 +4,7 @@
    "authentication": [{
          "id": "did:web:craftofscience.xyz#z6Mkn9fexAufte1mEeWkD4iX8MbM2aKKuf69qmfmC8dD4MC3",
   "type": "Ed25519VerificationKey2018",
-  "controller": 'did:web:craftofscience.xyz',
+  "controller": "did:web:craftofscience.xyz",
   "publicKeyBase58": "8hQcMvfEZ6XJ89g3XVkgHG3MD13UVmqo9kkqMrfC98Qf" }],
 
    "assertionMethod": [{
