@@ -8,7 +8,7 @@
     "image": {"@id": "https://schema.org/image", "@type": "@id"},
 
     "TaleData": {
-      "@id": "http://www.craftofscience.xyz/",
+      "@id": "www.craftofscience.xyz/",
       "@context": {
         "@version": 1.1,
         "@protected": true,
