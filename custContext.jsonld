@@ -4,8 +4,8 @@
     "@protected": true,
 
     "name": "http://schema.org/name",
-    "description": "http://schema.org/description",
-    "image": {"@id": "http://schema.org/image", "@type": "@id"},
+    "description": "https://schema.org/description",
+    "image": {"@id": "https://schema.org/image", "@type": "@id"},
 
     "TaleData": {
       "@id": "http://www.craftofscience.xyz/",
@@ -16,10 +16,10 @@
         "id": "@id",
         "type": "@type",
 
-        "schema": "http://schema.org/",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "schema": "https://schema.org/",
+        "xsd": "https://www.w3.org/2001/XMLSchema#",
 
-        "description": "http://schema.org/description",
+        "description": "https://schema.org/description",
 	"distribution" : "https://schema.org/distribution",
         "issn" : "https://schema.org/issn",
         "creatorAccountID" : "https://schema.org/accountId",
