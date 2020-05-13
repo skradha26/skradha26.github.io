@@ -18,15 +18,6 @@
 
         "schema": "http://webschemas.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
-
-        "description": "http://webschemas.org/description",
-	"distribution" : "http://webschemas.org/distribution",
-        "issn" : "http://webschemas.org/issn",
-        "creatorAccountID" : "http://webschemas.org/accountId",
-        "conditionsOfAccess" : "http://webschemas.org/conditionsOfAccess",
-        "dateCreated" : "http://webschemas.org/dateCreated",
-        "dateModified": "http://webschemas.org/dateModified",
-        "citedVCList": "http://webschemas.org/itemListElement",
         "identifier": "schema:identifier",
         "version": "schema:version"
       }
