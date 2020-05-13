@@ -3,9 +3,9 @@
     "@version": 1.1,
     "@protected": true,
 
-    "name": "http://schema.org/name",
-    "description": "https://schema.org/description",
-    "image": {"@id": "https://schema.org/image", "@type": "@id"},
+    "name": "http://webschemas.org/name",
+    "description": "http://webschemas.org/description",
+    "image": {"@id": "http://webschemas.org/image", "@type": "@id"},
 
     "TaleData": {
       "@id": "www.craftofscience.xyz/",
@@ -16,17 +16,17 @@
         "id": "@id",
         "type": "@type",
 
-        "schema": "https://schema.org/",
+        "schema": "http://webschemas.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
 
-        "description": "https://schema.org/description",
-	"distribution" : "https://schema.org/distribution",
-        "issn" : "https://schema.org/issn",
-        "creatorAccountID" : "https://schema.org/accountId",
-        "conditionsOfAccess" : "https://schema.org/conditionsOfAccess",
-        "dateCreated" : "https://schema.org/dateCreated",
-        "dateModified": "https://schema.org/dateModified",
-        "citedVCList": "https://schema.org/itemListElement",
+        "description": "http://webschemas.org/description",
+	"distribution" : "http://webschemas.org/distribution",
+        "issn" : "http://webschemas.org/issn",
+        "creatorAccountID" : "http://webschemas.org/accountId",
+        "conditionsOfAccess" : "http://webschemas.org/conditionsOfAccess",
+        "dateCreated" : "http://webschemas.org/dateCreated",
+        "dateModified": "http://webschemas.org/dateModified",
+        "citedVCList": "http://webschemas.org/itemListElement",
         "identifier": "schema:identifier",
         "version": "schema:version"
       }
