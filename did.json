@@ -4,17 +4,15 @@
   "id": "did:web:craftofscience.xyz",
    "authentication": [{
          "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
-  "type": "Ed25519VerificationKey2018",
-  "controller": "did:web:craftofscience.xyz",
-  "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i" }],
+         "type": "Ed25519VerificationKey2018",
+         "controller": "did:web:craftofscience.xyz",
+        "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i" }],
    "assertionMethod": [{
         "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
         "type": "Ed25519VerificationKey2018",
         "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i"      }],
-   "verificationMethod": [{
-        "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
-        "type": "Ed25519VerificationKey2018",
-        "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i"      }]
+  "service": [{
+    }]
 
 }
 
