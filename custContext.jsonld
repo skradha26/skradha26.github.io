@@ -3,12 +3,12 @@
     "@version": 1.1,
     "@protected": true,
 
-    "name": "http://webschemas.org/name",
-    "description": "http://webschemas.org/description",
-    "image": {"@id": "http://webschemas.org/image", "@type": "@id"},
+    "name": "http://schema.org/name",
+    "description": "http:/schema.org/description",
+    "image": {"@id": "http://schema.org/image", "@type": "@id"},
 
     "TaleData": {
-      "@id": "http://www.craftofscience.xyz/",
+      "@id": "http://www.craftofscience.xyz/TaleData",
       "@context": {
         "@version": 1.1,
         "@protected": true,
@@ -16,8 +16,9 @@
         "id": "@id",
         "type": "@type",
 
-        "schema": "http://webschemas.org/",
+        "schema": "http://schema.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
+        
         "identifier": "schema:identifier",
         "version": "schema:version"
       }
