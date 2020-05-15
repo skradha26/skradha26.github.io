@@ -9,7 +9,7 @@
         "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i" }],
    "assertionMethod": [{
         "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
-        "type": "Ed25519Signature2018",
+        "type": "Ed25519VerificationKey2018",
         "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i"      }],
   "service": [{
     }]
