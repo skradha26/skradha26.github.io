@@ -6,9 +6,6 @@
     "name": "http://schema.org/name",
     "description": "http:/schema.org/description",
     "image": {"@id": "http://schema.org/image", "@type": "@id"},
-    "holder" : {"@id": "cred:holder", "@type": "@id"},
-    "issued": {"@id": "cred:issued", "@type": "@id"},
-    "issuanceDate": {"@id": "cred:issuanceDate", "@type": "xsd:dateTime"},
     "TaleData": {
       "@id": "http://www.craftofscience.xyz/TaleData",
       "@context": {
