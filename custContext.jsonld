@@ -6,7 +6,9 @@
     "name": "http://schema.org/name",
     "description": "http:/schema.org/description",
     "image": {"@id": "http://schema.org/image", "@type": "@id"},
-
+    "holder" : {"@id": "cred:holder", "type": "@id"},
+    "issued": {"@id": "cred:issued": "@type": "@id"},
+    "issuanceDate": {"@id": "cred:issuanceDate", "@type": "xsd:dateTime"},
     "TaleData": {
       "@id": "http://www.craftofscience.xyz/TaleData",
       "@context": {
@@ -14,7 +16,11 @@
         
         "id": "@id",
         "type": "@type",
-
+        
+        "category" : "schema: category",
+        "copyOfTale" : "schema: identifier",
+        "dateCreated" : "schema: dateCreated",
+        "creatorId": "schema: accountId",
         "schema": "http://schema.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
         
