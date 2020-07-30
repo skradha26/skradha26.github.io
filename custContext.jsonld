@@ -29,7 +29,7 @@
     },
      "reviewData" : {
         "@context": {
-          "reviewer": "schema:accountId",
+          "reviewerID": "@id",
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
