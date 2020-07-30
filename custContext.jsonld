@@ -18,6 +18,7 @@
         "copyOfTale" : "schema: identifier",
         "dateCreated" : "schema: dateCreated",
         "dateModified" : "schema: dateModified",
+        "reviewData" : "schema: review",
         "creatorId": "schema: accountId",
         "schema": "http://schema.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
