@@ -28,8 +28,8 @@
      
     },
      "reviewData" : {
-        "@context": {
-          "id": "@id",
+         "id": "@id",
+        "@context": {        
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
