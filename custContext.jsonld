@@ -18,13 +18,6 @@
         "copyOfTale" : "schema: identifier",
         "dateCreated" : "schema: dateCreated",
         "dateModified" : "schema: dateModified",
-        "reviewData" : {
-          "reviewer": "schema:identifier",
-          "dateCreated": "schema: dateCreated",
-          "referencesExist": "schema: Boolean",
-           "soiExists": "schema:Boolean",
-           "taleRunSuccess": "schema:Boolean",
-           "DOIofSubmission":  "schema:Boolean"},
         "creatorId": "schema: accountId",
         "schema": "http://schema.org/",
         "xsd": "https://www.w3.org/2001/XMLSchema#",
@@ -32,7 +25,15 @@
         "identifier": "schema:identifier",
         "version": "schema:version"
       }
+     
     }
+     "reviewData" : {
+          "reviewer": "schema:identifier",
+          "dateCreated": "schema: dateCreated",
+          "referencesExist": "schema: Boolean",
+           "soiExists": "schema:Boolean",
+           "taleRunSuccess": "schema:Boolean",
+           "DOIofSubmission":  "schema:Boolean"}
 
   }
 }
