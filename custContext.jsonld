@@ -28,8 +28,9 @@
      
     },
      "reviewData" : {
-         "id": "@id",
-        "@context": {        
+        "@id": "http://www.craftofscience.xyz/TaleData",
+        "@context": {  
+           "id": "@id",
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
