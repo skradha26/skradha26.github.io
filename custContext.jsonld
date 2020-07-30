@@ -35,6 +35,7 @@
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
            "taleRunSuccess": "schema:boolean",
+           "TaleRunReproduced": "schema:boolean",
            "DOIofSubmission":  "schema:boolean"}
      }
   }
