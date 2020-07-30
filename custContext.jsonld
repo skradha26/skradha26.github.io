@@ -19,7 +19,7 @@
         "dateCreated" : "schema: dateCreated",
         "dateModified" : "schema: dateModified",
         "reviewData" : {
-          "reviewerid": "schema:identifier",
+          "reviewer": "schema:identifier",
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: Boolean",
            "soiExists": "schema:Boolean",
