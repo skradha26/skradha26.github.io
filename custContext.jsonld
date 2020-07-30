@@ -26,7 +26,7 @@
         "version": "schema:version"
       }
      
-    }
+    },
      "reviewData" : {
           "reviewer": "schema:identifier",
           "dateCreated": "schema: dateCreated",
