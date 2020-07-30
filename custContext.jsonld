@@ -28,12 +28,13 @@
      
     },
      "reviewData" : {
+        "@context": {
           "reviewer": "schema:accountId",
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
            "taleRunSuccess": "schema:boolean",
            "DOIofSubmission":  "schema:boolean"}
-
+     }
   }
 }
