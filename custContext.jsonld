@@ -28,7 +28,7 @@
      
     },
      "reviewData" : {
-          "reviewer": "schema:identifier",
+          "reviewer": "schema:accountId",
           "dateCreated": "schema: dateCreated",
           "referencesExist": "schema: boolean",
            "soiExists": "schema:boolean",
