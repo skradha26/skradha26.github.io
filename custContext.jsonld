@@ -27,16 +27,12 @@
       }
      
     },
-     "reviewData" : {
+     "reviewTransactions" : {
         "@id": "http://www.craftofscience.xyz/TaleData",
         "@context": {  
            "id": "@id",
-          "dateCreated": "schema: dateCreated",
-          "referencesExist": "schema: boolean",
-           "soiExists": "schema:boolean",
-           "taleRunSuccess": "schema:boolean",
-           "TaleRunReproduced": "schema:boolean",
-           "DOIofSubmission":  "schema:boolean"}
+           "itemList": "schema : itemList"
+           }
      }
   }
 }
