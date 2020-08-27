@@ -11,7 +11,7 @@
       "@context": {
         
         
-        "id": "@id",
+        "id": "schema: identifier",
         "type": "@type",
         
         "category" : "schema: category",
