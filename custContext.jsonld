@@ -11,7 +11,7 @@
       "@context": {
         
         
-        "issuerDID": "schema: identifier",
+        "holderDID": "schema: identifier",
         "type": "@type",
         
         "category" : "schema: category",
