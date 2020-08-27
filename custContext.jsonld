@@ -1,37 +1,38 @@
 {
-  "@context": {
-    "@version": 1.1,
-    "@protected": true,
+"@context": {
+"@version": 1.1,
+"@protected": true,
 
-    "name": "http://schema.org/name",
-    "description": "http:/schema.org/description",
-    "image": {"@id": "http://schema.org/image", "type": "@type"},
-    "TaleData": {
-      "@id": "http://www.craftofscience.xyz/TaleData",
-      "@context": {
-        
-        
-        "holderDID": "schema: identifier",
-        "type": "@type",
-        
-        "category" : "schema: category",
-        "copyOfTale" : "schema: identifier",
-        "dateCreated" : "schema: dateCreated",
-        "dateModified" : "schema: dateModified",
-        "creatorId": "schema: accountId",
-        "schema": "http://schema.org/",
-        "xsd": "https://www.w3.org/2001/XMLSchema#",
-        
-        "identifier": "schema:identifier",
-        "version": "schema:version"
-      }
-     
-    },
-     "reviewTransactions" : {
-        "@id": "http://www.craftofscience.xyz/TaleData",
-        "@context": {  
-           "itemList": "schema : itemList"
-           }
-     }
-  }
+"name": "http://schema.org/name",
+"description": "http:/schema.org/description",
+"image": {"@id": "http://schema.org/image", "@type": "@id"},
+"TaleData": {
+"@id": "http://www.craftofscience.xyz/TaleData",
+"@context": {
+
+
+"id": "@id",
+"type": "@type",
+
+"category" : "schema: category",
+"copyOfTale" : "schema: identifier",
+"dateCreated" : "schema: dateCreated",
+"dateModified" : "schema: dateModified",
+"creatorId": "schema: accountId",
+"schema": "http://schema.org/",
+"xsd": "https://www.w3.org/2001/XMLSchema#",
+
+"identifier": "schema:identifier",
+"version": "schema:version"
+}
+
+},
+"reviewTransactions" : {
+"@id": "http://www.craftofscience.xyz/TaleData",
+"@context": {
+"id": "@id",
+"itemList": "schema: itemList"
+}
+}
+}
 }
