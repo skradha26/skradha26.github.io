@@ -5,7 +5,7 @@
 
     "name": "http://schema.org/name",
     "description": "http:/schema.org/description",
-    "image": {"@id": "http://schema.org/image", "@type": "@id"},
+    "image": {"@id": "http://schema.org/image", "type": "@type"},
     "TaleData": {
       "@id": "http://www.craftofscience.xyz/TaleData",
       "@context": {
