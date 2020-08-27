@@ -30,7 +30,6 @@
      "reviewTransactions" : {
         "@id": "http://www.craftofscience.xyz/TaleData",
         "@context": {  
-           "id": "@id",
            "itemList": "schema : itemList"
            }
      }
