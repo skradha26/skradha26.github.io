@@ -11,7 +11,7 @@
       "@context": {
         
         
-        "id": "schema: identifier",
+        "issuerDID": "schema: identifier",
         "type": "@type",
         
         "category" : "schema: category",
