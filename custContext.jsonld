@@ -7,7 +7,7 @@
 "description": "http:/schema.org/description",
 "image": {"@id": "http://schema.org/image", "@type": "@id"},
 "TaleData": {
-"@id": "http://www.craftofscience.xyz/TaleData",
+"@id": "http://www.testpublication.xyz/TaleData",
 "@context": {
 
 
@@ -28,7 +28,7 @@
 
 },
 "reviewTransactions" : {
-"@id": "http://www.craftofscience.xyz/TaleData",
+"@id": "http://www.testpublication.xyz/TaleData",
 "@context": {
 "id": "@id",
 "transactionIDs": "schema: itemList"
