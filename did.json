@@ -1,14 +1,14 @@
 
 {
   "@context": "https://w3id.org/did/v0.11",
-  "id": "did:web:craftofscience.xyz",
+  "id": "did:web:testpublication.xyz",
    "authentication": [{
-         "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
+         "id": "did:web:testpublication.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
          "type": "Ed25519VerificationKey2018",
-         "controller": "did:web:craftofscience.xyz",
+         "controller": "did:web:testpublicaton.xyz",
         "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i" }],
    "assertionMethod": [{
-        "id": "did:web:craftofscience.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
+        "id": "did:web:testpublication.xyz#z6MkpTSqkUdN66k37jCVDKqKKmZJ5Dq7aZGZCsFUCGbrpNr6",
         "type": "Ed25519VerificationKey2018",
         "publicKeyBase58": "B1BoAENvkZFa1EMnXksUUg1JFeZGAg2CWrLYMzdquA4i"      }],
   "service": [{
