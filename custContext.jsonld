@@ -6,8 +6,8 @@
 "name": "http://schema.org/name",
 "description": "http:/schema.org/description",
 "image": {"@id": "http://schema.org/image", "@type": "@id"},
-"TaleData": {
-"@id": "http://www.testpublication.xyz/TaleData",
+"BadgeData": {
+"@id": "http://www.testpublication.xyz/BadgeData",
 "@context": {
 
 
@@ -28,7 +28,7 @@
 
 },
 "reviewTransactions" : {
-"@id": "http://www.testpublication.xyz/TaleData",
+"@id": "http://www.testpublication.xyz/BadgeData",
 "@context": {
 "id": "@id",
 "transactionIDs": "schema: itemList"
