@@ -7,7 +7,7 @@
 "description": "http:/schema.org/description",
 "image": {"@id": "http://schema.org/image", "@type": "@id"},
 "BadgeData": {
-"@id": "http://www.testpublication.xyz/BadgeData",
+"@id": "https://www.testpublication.xyz/BadgeData",
 "@context": {
 
 
@@ -28,7 +28,7 @@
 
 },
 "reviewTransactions" : {
-"@id": "http://www.testpublication.xyz/BadgeData",
+"@id": "https://www.testpublication.xyz/BadgeData",
 "@context": {
 "id": "@id",
 "transactionIDs": "schema: itemList"
