@@ -5,7 +5,7 @@
    "authentication": [{
          "id": "did:web:testpublication.xyz#z6MkrAkP2LbkTT7hf1Gw1jv46ysx9kX1eLHHCRAXsSRtuCk9",
          "type": "Ed25519VerificationKey2018",
-         "controller": "did:web:testpublicaton.xyz",
+         "controller": "did:web:testpublication.xyz",
         "publicKeyBase58": "CiVLS6MK7udEYWSELAxDFtKxLBFAET2vWQFc3ATsyyxm" }],
    "assertionMethod": [{
         "id": "did:web:testpublication.xyz#z6MkrAkP2LbkTT7hf1Gw1jv46ysx9kX1eLHHCRAXsSRtuCk9",
