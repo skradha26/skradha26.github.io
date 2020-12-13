@@ -8,16 +8,12 @@
 "image": {"@id": "http://schema.org/image", "@type": "@id"},
 "BadgeData": {
 "@id": "https://www.testpublication.xyz/BadgeData",
+ "dateCreated" : "schema: dateCreated",
 "@context": {
-
-
 "id": "@id",
 "type": "@type",
-
 "journalCategory" : "schema: category",
 "paperDOI" : "schema: identifier",
-"dateCreated" : "schema: dateCreated",
-"dateModified" : "schema: dateModified",
 "credentialAcceptanceDate" :"schema: dateCreated",
 "creatorId": "schema: accountId",
 "schema": "http://schema.org/",
